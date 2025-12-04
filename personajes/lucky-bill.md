@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # Lucky Bill
-![Retrato de Lucky Bill](../img/lucky-bill.png)
+![Retrato de Lucky Bill](./img/lucky-bill.png)
 **Edad:** 30-40 Años  
 **Ocupación:** Superviviente errante  
 **Ubicación actual:** Desconocida (se mueve constantemente)  
