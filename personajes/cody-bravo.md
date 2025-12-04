@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Cody Bravo
 parent: Personajes
 nav_order: 1
